@@ -4,7 +4,8 @@
 ## Fourth Edition
 
 
-## Bjane Stroustrup
+### Bjane Stroustrup
+
 
 
 ### Preface
@@ -35,5 +36,22 @@ Naturally, these three groups are not disjont - a profressional software develop
 
 This bok assumes that its reader are programmers. If you ask, "What's a fro-llop?" or "What's a compiler?" then this book is not (yet) for you; instead, I recommend my Programming: Principles and Practice Using C++ to get started with programming and C++. Furthermore, i assume that readers have some maturity as software developers. If you ask "Why bother testing?"or say, "All languages are basically the ssame;just show me hte syntax" ore are confident that there is a single language that is ideal for every taks, this is not the book for you.
 
-What features does C++11 offer over and above C++98? A machine model suitable for modern computers with lots of cocurrency. Language and standard-library facilities for doing systems-level concurrent programming (e.g; using multicores)
+What features does C++11 offer over and above C++98? A machine model suitable for modern computers with lots of cocurrency. Language and standard-library facilities for doing systems-level concurrent programming (e.g; using multicores). Regular expression handling,resource management pointers, random numbers, improved containers(incluing, hash tables), and more. General and uniform initialization, a simpler for-statement, ove semantics, basic Uincode support, lambdas, genral constant repressions, control over lcasss defaults, variadic templates, user-defined literals, and more. please remember that thoes libraires and language features exist to support programming techniques for devloping quality software. They are meant to be usede in combination -  as bricks in a building set - rather than to be used individually in relative isolation to solve a specific problem. A computer is a universal machine, and C++ serves it in that capacity. In particular, C++'s design aims to be suffciently flexible and general to cope with future problems undreamed of by its designers.
+
+#### Acknowledgments
+
+In additions to the people mentioned in the acknowledgment sections of the previous editions, I would like to thank Pete Becker,Hans-J. Boehm, Marshell Clow,Jonathan Coe, Lawrence Crowl, Walter Daugherty, J. Daniel Garcia, Robert harle, Greg Hickman, howard Hinnant, Brian Kernighan, Daniel krugler, Nevin Liber, Michel Michaud, Gary Powell, jan Christiaan wn Winkel, and Leor Zolmna. Withou thir help this book would have been much poorer.
+
+Thanks to Howard Hinnant for answering many questins about the standard library.
+
+Andrew Sutton is the author of the Origin library, which was the tested for much of the discussion fo emulating concepts in the template chapters, and of the matrix library that is the topic of Chapter 29. The Origin library is open source and can be found by searching the Web of "Origin" and "Andrew Sutton".
+
+
+Thanks to my graduate design class dor finding more problems with the "Tour chapters " than anyoue else.
+
+
+
+
+
+
 

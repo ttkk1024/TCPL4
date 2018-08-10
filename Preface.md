@@ -50,8 +50,33 @@ Andrew Sutton is the author of the Origin library, which was the tested for much
 Thanks to my graduate design class dor finding more problems with the "Tour chapters " than anyoue else.
 
 
+Had I been able to follow ervy piece of advice of my reviewers,the book would undoubtedly have been much imporved,but it would also have been undreds of pgess lssosnger. Every expert reviewer suggested adding technicl details, advanced examples, and many useful developemnt convertions; every novice reviewer(or educator) suggested adding examples; and most reviewers observed(correctly) that the book may be too long.
 
 
+Thanks to Priceton University's Computer Science Deapartment, adn especially Porf. Brian Kernighan, for hosting me for part of the sabbatical that gave me time to write this book.
+
+
+Thanks to Cambridge University's Computer Lab, and especiall Pro.Andy Hopper, for hosting me for part fo the sabbatical that gave time to write this book.
+
+Thansk to my deitor,Peter Gordon, and his production team at Addison-Wesley for their help and patience.
+
+College Station,Texas     Bjarne Stroustrup
+
+
+
+
+### Part I Introduction
+
+
+This introduction gives an voerview of the major concepts and features of the C++ programming language and its standard library. It also provides an overivew of this book and explains the approach taken to hte description of the language facilities and their use. In addition, the intorductiory chapters present some background information about C++, the design of C++, and the use of C++.
+
+Chapters
+
+1 Notes to the Reader
+2 A Tour of C++: The Basics
+3 A Tour of C++: Abstraction Mechanisms
+4 A Tour of C++: Containers and Algorithms
+5 A Tour of C++: Concurrency and Utilities
 
 
 

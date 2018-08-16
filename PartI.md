@@ -74,5 +74,22 @@ A Tour of C++: Concurrency and Utilites outlines the standard-library utilites r
 This whirlwind tour of C++'s facilites aims to give the reader a taste of what C++ offers. In particular, it should convince readers that C++ has come a long way since the first, second, and third editions of this book.
 
 
+#### 1.1.2 Basic Facilities
+
+Part II focuses on the subset of C++ that supports the styles of programming traditionally done in C and similar languages. It introduces the notions of type,object, scope and storage. It presents the fundamentals of computation: expressions, statements and functions. Modulrity -- as supported by namscpacs, source files and exception handling - is also discussed:
+
+- Chapter 6 
+Types and Decalarations: Fundamental types,naming,scopes,initialization, simple type deduction, object lifetimes, and type aliases
+- Chapter 7
+Pointers, Arrays, and References
+- Chapter 8
+Structures, Unions, and Enumerations
+- Chapter 9
+Statements: Declarations as statements, Selection statements(if and switch),iteration statements(for, while, and do), goto, and comments
+- Chapter 10
+Expressions: A desk caculator example, survey fo operators, constant expressions, and implicit type conversion
+- Chapter 11
+Select Operations: Logical operators, the conditional expression, increment and decrement, free store(new and delete), {}-lists, lambda expressions, and explicit type conversion(static_cast and const_cast)
+
 
 

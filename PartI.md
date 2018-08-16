@@ -85,11 +85,11 @@ Pointers, Arrays, and References
 - Chapter 8
 Structures, Unions, and Enumerations
 - Chapter 9
-Statements: Declarations as statements, Selection statements(if and switch),iteration statements(for, while, and do), goto, and comments
+Statements: Declarations as statements, Selection statements( __if__ and __switch__),iteration statements( __for__ , __while__ , and __do__), __goto__ , and comments
 - Chapter 10
 Expressions: A desk caculator example, survey fo operators, constant expressions, and implicit type conversion
 - Chapter 11
-Select Operations: Logical operators, the conditional expression, increment and decrement, free store(new and delete), {}-lists, lambda expressions, and explicit type conversion(static_cast and const_cast)
+Select Operations: Logical operators, the conditional expression, increment and decrement, free store( __new__ and __delete__ ), __{}__-lists, lambda expressions, and explicit type conversion(__static_cast__ and __const_cast__)
 
 
 
